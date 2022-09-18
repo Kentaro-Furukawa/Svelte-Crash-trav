@@ -27,7 +27,7 @@
     left: -10px;
     width: 50px;
     height: 50px;
-    background: rebeccapurple;
+    background: hotpink;
     color: #fff;
     border: 1px #eee solid;
     border-radius: 50%;
